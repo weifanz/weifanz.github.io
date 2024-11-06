@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "对初中教育的一些看法"
+title:  "Some Thoughts About Math"
 date:   2023-02-15 00:53:10 -0500
 categories: Random Thoughts
 ---
