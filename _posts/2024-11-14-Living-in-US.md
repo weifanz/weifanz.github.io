@@ -18,4 +18,4 @@ categories: Random Thoughts
 
 <p>You can't make up evidence, and you have to cite ChatGPT and trace the origin. And when you are holding a student visa, you are a student and cannot work more than 20 hours a week.</p>
 
-<p>Yeah, just behave like a lawyer, and you can live well. I both hate and sometimes like the thick dictionaries.</p> 
+<p>Yeah, just behave like a lawyer, you will live well. I both hate and sometimes like the thick dictionaries.</p> 
